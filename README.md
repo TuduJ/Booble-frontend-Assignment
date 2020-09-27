@@ -2,11 +2,12 @@
 
 ###The Assignment is made using ony HTML and CSS
 
-import repository
+-import repository using command `git clone https://github.com/TuduJ/Booble-frontend-Assignment.git`
+-open index.html
 
-open index.html
 
-**Note**
-The react app of the same task is saperatly added in the given repository link
+
+**Note:**
+The react app of the same task is saperatly added in the given :point_down: repository link
 
 link -> `https://github.com/TuduJ/Bobble-Assignment-React`
