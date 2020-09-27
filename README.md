@@ -8,6 +8,5 @@
 
 
 **Note:**
-The react app of the same task is saperatly added in the given :point_down: repository link
-
-link -> `https://github.com/TuduJ/Bobble-Assignment-React`
+The react app of the same task is saperatly added in the 
+[Bobble-Assignment-React](https://github.com/TuduJ/Bobble-Assignment-React/) repository
