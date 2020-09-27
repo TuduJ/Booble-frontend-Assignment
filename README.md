@@ -1,6 +1,6 @@
 # Booble-frontend-Assignment
 
-###The Assignment is made using ony HTML and CSS
+> The Assignment is made using ony HTML and CSS
 
 - import repository using command `git clone https://github.com/TuduJ/Booble-frontend-Assignment.git`
 - open index.html
